@@ -1,0 +1,43 @@
+*{
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 25px;
+}
+#display1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    border: 1px solid black;
+}
+
+#display2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    border: 1px solid black;
+  
+}
+h1 , h2{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 00;
+    border: 1px solid black;
+    text-shadow: 3px 3px 3px gray;
+}
+#rollNumber{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+button{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+p{
+    text-decoration: underline;
+    font-size: 20px;
+}
